@@ -1,3 +1,164 @@
+body{
+  margin: 0;
+  min-height: 100%;
+  font-family: Century Gothic;
+}
+
 h1{
-    color: brown;
+  margin-top: 100px;
+    margin-left: 45%;
+    font-weight: bold;
+}
+
+h2{
+font-size:medium;
+margin-left: 40%;
+margin-bottom: 50px;
+}
+
+.container {
+  
+    display: block;
+    margin: 30px;
+    margin-left: 13%;
+    
+  }
+  .box {
+    padding-top: 20px;
+    width: 350px;
+    height: 400px;
+    display: inline-block;    
+    margin-left: 5px;
+    background-color: aliceblue;
+    border-radius: 15px;
+  }
+  
+#Es{
+  font-family:Arial;
+padding-top: 50px;
+margin-left: 40px;
+font-size:60px;
+font-weight: bold;
+}
+
+#Ee{
+font-size: large;
+font-weight: bold;
+margin-left: 5%;
+}
+
+#Er{
+margin-left: 20px;
+
+}
+
+#btn{
+  width: 200px;
+  height: 35px;
+  background-color: aliceblue;
+  color: black;
+  border-color: black;
+  border-radius: 10px;
+  margin-left: 20%;
+  margin-top: 15%;
+
+}
+h3{
+margin-left: 46%;
+font-size:x-large large;
+width: 50px;
+text-align: right;
+margin-bottom: 50px;
+}
+
+#picpreg{
+margin-top: 100px;
+margin-bottom: 50px;
+ height: 150px;
+ width: 150px;
+ margin-left: 45%;
+
+}
+
+#preguntas{
+font-family: Century Gothic;
+font-weight: lighter;
+font-size:large;
+padding: 10px;
+color: black;
+width: 610px;
+margin-left: 30%;
+margin-top: 30px;
+background: rgb(180,181,157);
+border-top: rgb(180,181,157);
+border-left: rgb(180,181,157);
+border-right: rgb(180,181,157);
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+
+
+}
+
+
+#cartimg{
+margin-top: 150px;
+margin-left: 10%;
+width: 1250px;
+margin-bottom: 5%;
+}
+
+#img11{
+
+width: 650px;
+height: 320px;
+
+}
+
+#txt1{
+font-family: Century Gothic;
+font-weight: bold;
+margin-top:20px ;
+font-size: x-large;
+}
+
+#txt2{
+  font-size:medium;
+  font-family: Century Gothic;
+  }
+
+#btn2{
+
+margin-top: 15%;
+margin-left:75% ;
+font-family: Century Gothic;
+font-weight: bold;
+
+}
+
+#option1{
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+
+#piepag{
+
+    
+  bottom: 0%;    
+  margin-bottom: 0%;
+  margin-top: 10%;
+  position: static;
+  width: 100%;
+  height: 55px;
+}
+
+#CC {
+  padding-left: 5px;
+  padding-right: 20px;
+  font-family: Century Gothic;
+  font-size: xx-small;
+
+}
+
+#piepag1{
+font-size: x-small;
 }

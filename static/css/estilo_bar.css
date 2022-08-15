@@ -31,12 +31,3 @@ nav a {
     bottom: 0;
  
 }
- hr {
-   
-    margin-top: 70%;
-    width: 50%;
-    height: 3px;
-    background-color: grey;
-    opacity: 0.5;
-    border-radius: 5px;
- }
