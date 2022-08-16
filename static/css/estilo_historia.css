@@ -193,16 +193,17 @@ font-family: Century Gothic;
     text-align: right
 }
 
+
 #cartimg{
     margin-top: 200px;
     margin-left: 10%;
-    width: 1250px;
+    width: 80%;
     margin-bottom: 5%;
     }
     
     #img11{
     
-    width: 650px;
+    width: 85%;
     height: 320px;
     
     }
@@ -222,10 +223,10 @@ font-family: Century Gothic;
     #btn2{
     
     margin-top: 15%;
-    margin-left:75% ;
+    margin-left:70% ;
     font-family: Century Gothic;
     font-weight: bold;
-    }    
+    }   
     
 #piepag{
 

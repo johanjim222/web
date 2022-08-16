@@ -81,12 +81,13 @@ margin-bottom: 50px;
 }
 
 #preguntas{
+  border-radius: 15px;
 font-family: Century Gothic;
 font-weight: lighter;
 font-size:large;
 padding: 10px;
 color: black;
-width: 610px;
+width: 620px;
 margin-left: 30%;
 margin-top: 30px;
 background: rgb(180,181,157);
@@ -100,40 +101,41 @@ border-top-right-radius: 15px;
 }
 
 
+
 #cartimg{
-margin-top: 150px;
-margin-left: 10%;
-width: 1250px;
-margin-bottom: 5%;
-}
-
-#img11{
-
-width: 650px;
-height: 320px;
-
-}
-
-#txt1{
-font-family: Century Gothic;
-font-weight: bold;
-margin-top:20px ;
-font-size: x-large;
-}
-
-#txt2{
-  font-size:medium;
-  font-family: Century Gothic;
+  border-radius: 15px;
+  margin-top: 200px;
+  margin-left: 10%;
+  width: 80%;
+  margin-bottom: 5%;
   }
-
-#btn2{
-
-margin-top: 15%;
-margin-left:75% ;
-font-family: Century Gothic;
-font-weight: bold;
-
-}
+  
+  #img11{
+    border-radius: 15px;
+  width: 85%;
+  height: 320px;
+  
+  }
+  
+  #txt1{
+  font-family: Century Gothic;
+  font-weight: bold;
+  margin-top:20px ;
+  font-size: x-large;
+  }
+  
+  #txt2{
+    font-size:medium;
+    font-family: Century Gothic;
+    }
+  
+  #btn2{
+  
+  margin-top: 15%;
+  margin-left:70% ;
+  font-family: Century Gothic;
+  font-weight: bold;
+  } 
 
 #option1{
   font-family: Century Gothic;
