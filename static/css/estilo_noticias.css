@@ -4,6 +4,7 @@ body {
 }
 
 #noti11 {
+  
   margin-top: 100px;
   width: 900px;
   margin-left: 20%;
@@ -99,4 +100,15 @@ h1 {
 
 #piepag1 {
   font-size: x-small;
+}
+
+#cont1{
+  background: rgb(181,239,241);
+  background: linear-gradient(90deg, rgba(181,239,241,1) 0%, rgba(251,255,255,1) 100%);
+border-radius: 15px;
+
+}
+
+#cont2{
+  font-family: Century Gothic;
 }
