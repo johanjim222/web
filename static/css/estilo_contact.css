@@ -3,18 +3,19 @@ body{
     min-height: 100%;
 }
 #img1 {
-margin-top: 100px;
+margin-top: 150px;
 position: absolute ;
 float: left;
-width: 400px;
+width: 500px;
 height: 400px;
-margin-left: 150px;
+margin-left: 170px;
 margin-right: 100px;
 
 
 }
 
 #form1 {
+    margin-top: 50px;
     position:relative;
     font-weight: bold;
     font-family: Century Gothic;

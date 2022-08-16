@@ -1,5 +1,10 @@
-#noti11{
+body{
+    margin: 0;
+    min-height: 100%;
+}
 
+#noti11{
+    margin-top: 100px;
     width: 900px;
     margin-left: 100px;
 }
@@ -18,3 +23,61 @@ margin-bottom: 15px;
 #noti13{
     width: 900px;
     margin-left: 100px;}
+
+    #cartimg{
+        margin-top: 200px;
+        margin-left: 10%;
+        width: 1250px;
+        margin-bottom: 5%;
+        }
+        
+        #img11{
+        
+        width: 650px;
+        height: 320px;
+        
+        }
+        
+        #txt1{
+        font-family: Century Gothic;
+        font-weight: bold;
+        margin-top:20px ;
+        font-size: x-large;
+        }
+        
+        #txt2{
+          font-size:medium;
+          font-family: Century Gothic;
+          }
+        
+        #btn2{
+        
+        margin-top: 15%;
+        margin-left:75% ;
+        font-family: Century Gothic;
+        font-weight: bold;
+        }    
+
+
+        #piepag{
+
+    
+            bottom: 0%;    
+            margin-bottom: 0%;
+            margin-top: 10%;
+            position: static;
+            width: 100%;
+            height: 55px;
+          }
+          
+          #CC {
+            padding-left: 5px;
+            padding-right: 20px;
+            font-family: Century Gothic;
+            font-size: xx-small;
+          
+          }
+          
+          #piepag1{
+          font-size: x-small;
+          }
