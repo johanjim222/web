@@ -5,6 +5,8 @@ body {
 
 #asotami_logo {
     max-width: 180%;
+    width: 450px;
+    border-radius: 15px;
 }
 
 
@@ -71,17 +73,22 @@ h4 {
     border-radius: 15px;
     width: 170px;
     margin-left: 35%;
+    margin-bottom: 1%;
+
 
 }
 
 #afi2 {
     border-radius: 15px;
     width: 139px;
+    margin-bottom: 1%;
+
 }
 
 #afi3 {
     border-radius: 15px;
     width: 95px;
+    margin-bottom: 1%;
 
 }
 
@@ -128,7 +135,7 @@ div.testimonios {
 
 
 #cartimg {
-    margin-top: 200px;
+    margin-top: 150px;
     margin-left: 10%;
     width: 80%;
     margin-bottom: 5%;
@@ -191,4 +198,12 @@ div.testimonios {
     width: 100%;
     max-width: 100%;
     min-width: 100%;
+}
+
+hr {
+    margin-top: 20px;
+    width: 50%;
+    height: 10px;
+    background-color: #030303;
+    border-radius: 20px;
 }

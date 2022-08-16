@@ -29,16 +29,16 @@ body {
   border-radius: 15px;
 }
 
-h1{
+h1 {
   font-family: Century Gothic;
   margin-left: 35%;
   margin-top: 5%;
 }
 
-#linea1{
-width: 50%;
-height: 10%;
-background-color: black;
+#linea1 {
+  width: 50%;
+  height: 10%;
+  background-color: black;
 
 
 }
@@ -55,7 +55,7 @@ background-color: black;
   border-radius: 15px;
   width: 110%;
   height: 100%;
- 
+
 }
 
 #txt1 {
